@@ -4,6 +4,11 @@ Statistics 1: Introduction to ANOVA, Regression, and Logistic Regression de SAS
 
 Link de acceso al curso  : https://support.sas.com/edu/schedules.html?ctry=us&crs=STAT1#s1=1
 
+
+![](imagen11.png)
+
+
+
 ## Course Overview and Review of Concepts
 
 
@@ -27,7 +32,7 @@ Link de acceso al curso  : https://support.sas.com/edu/schedules.html?ctry=us&cr
 
 **More Complex Linear Models**
 
---	Performing two-way ANOVA with and without interactions.
+-	Performing two-way ANOVA with and without interactions.
 --	Understanding the concepts of multiple regression.
 
 

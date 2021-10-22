@@ -33,34 +33,34 @@ Link de acceso al curso  : https://support.sas.com/edu/schedules.html?ctry=us&cr
 
 **Model Building and Effect Selection**
 
---	Automated model selection techniques in PROC GLMSELECT to choose from among several candidate models.
---	Interpreting and comparison of selected models.
+-	Automated model selection techniques in PROC GLMSELECT to choose from among several candidate models.
+-	Interpreting and comparison of selected models.
 
 **Model Post-Fitting for Inference**
 
---	Examining residuals.
---	Investigating influential observations.
---	Assessing collinearit.
+-	Examining residuals.
+-	Investigating influential observations.
+- Assessing collinearit.
 
 **Model Building and Scoring for Prediction**
 
---	Understanding the concepts of predictive modeling.
---	Understanding the importance of data partitioning.
+-	Understanding the concepts of predictive modeling.
+-	Understanding the importance of data partitioning.
 
 
 
---	Understanding the concepts of scoring.
--- Obtaining predictions (scoring) for new data using PROC GLMSELECT and PROC PLM.
+-	Understanding the concepts of scoring.
+- Obtaining predictions (scoring) for new data using PROC GLMSELECT and PROC PLM.
 
 **Categorical Data Analysis**
 
---	Producing frequency tables with the FREQ procedure.
---	Examining tests for general and linear association using the FREQ procedure.
---	Understanding exact tests.
---	Understanding the concepts of logistic regression.
---	Fitting univariate and multivariate logistic regression models using the LOGISTIC procedure.
---	Using automated model selection techniques in PROC LOGISTIC including interaction terms.
---	Obtaining predictions (scoring) for new data using PROC PLM.
+-	Producing frequency tables with the FREQ procedure.
+-	Examining tests for general and linear association using the FREQ procedure.
+-	Understanding exact tests.
+-	Understanding the concepts of logistic regression.
+-	Fitting univariate and multivariate logistic regression models using the LOGISTIC procedure.
+-	Using automated model selection techniques in PROC LOGISTIC including interaction terms.
+-	Obtaining predictions (scoring) for new data using PROC PLM.
 
 
 
